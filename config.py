@@ -1,3 +1,4 @@
+# папка для конфигурации 
 TOKEN = '6901904474:AAH2bRC6t5FlkBZQum77klkz-1b4MODzR3w'
 
 MYSQL_USER = 'root'

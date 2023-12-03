@@ -6,8 +6,9 @@ from config import TOKEN
 import asyncio
 from aiogram import F
 from databases.models import async_main
+from databases.utils import get_category
 
-
+# запуск кода 
 async def main():
     await async_main()
     
